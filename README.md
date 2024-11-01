@@ -13,7 +13,7 @@ git clone https://github.com/MateuszBylik/InstaBot.git
 ```
 npm install
 ```
-5. To run, enter:
+4. To run, enter:
 ```
 npm run start
 ```
