@@ -1,0 +1,22 @@
+{
+  "name": "instabot",
+  "version": "0.1.0",
+  "description": "Application for solving \"Instaling\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuszBylik/InstaBot.git"
+  },
+  "keywords": [
+    "instaling"
+  ],
+  "author": "Mateusz Bylica",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MateuszBylik/InstaBot/issues"
+  },
+  "homepage": "https://github.com/MateuszBylik/InstaBot#readme"
+}
